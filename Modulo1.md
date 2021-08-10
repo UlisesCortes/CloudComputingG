@@ -137,3 +137,15 @@ Muchas empresas que quieren ser parte del modelo Cloud deben hacer un esfuerzo d
 Conceptos clave:
 - Ser Flexibles
 - cambio cultutral
+
+
+Extras:
+
+1. La intromisión de las tecnologías en las tareas laborales ha obligado a grandes empresas a trabajar con Cloud Computing. Cloud Computing supone un modelo de entrega y consumo de servicios apoyado en diversas tecnologías, pero no es una tecnología en sí.
+
+2. Utilizar y dar servicios Cloud supone un gran esfuerzo por parte del prestador y del usuario que utiliza dichos servicios. En el modelo Cloud el prestador debe hacerse responsable de la construcción, la ejecución y la entrega del servicio y el consumidor debe aceptar un modelo de relación y unas condiciones de uso. El modelo Cloud se ve fortalecido por el uso de estos contratos que especifican condiciones de servicios, roles y responsabilidades.
+
+3. A la hora de utilizar el servicio de Cloud Computing es muy importante leer las clausulas y el contrato que se está firmando con el proveedor. En Cloud Computing el usuario es responsable del uso y consumo que hace del servicio y el prestador es responsable de implementarlo, ejecutarlo y entregarlo.
+
+4. Si te decides por utilizar los servicios Cloud en tu ámbito laboral, es muy importante que sepas que existen distintos tipos de Cloud que se pueden adaptar a las necesidades de tu empresa y a las necesidades de los usuarios. Privada, pública, híbrida o en comunidad son categorías de Cloud en función del rol y el control que ejercen el usuario y el prestador de servicios.
+
