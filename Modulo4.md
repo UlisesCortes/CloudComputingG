@@ -24,3 +24,15 @@ Conceptos clave :
 - Gracias a que los ficheros se encuentran en Cloud, se puede hacer un mejor uso de los nuevos dispositivos.
 - Gracias a que los documentos se encuentran en Cloud, se puede acceder desde los nuevos dispositivos agilizando y facilitando el envío de información.
 - La unión de Cloud con los nuevos dispositivos ha permitido hacer consultas en tiempo real.
+
+
+
+# Extras:
+1. Un mayor uso de los servicios Cloud y, en definitiva, de los servicios online está causando grandes cambios en los usuarios y en las empresas. La aparición de nuevas formas de trabajar definirá nuevos puestos de trabajo u obligará a las empresas a adaptar los antiguos puestos de trabajo a las nuevas fórmulas de trabajo colaborativo.
+
+2. Las empresas han querido evolucionar incluyendo nuevas formas de trabajo colaborativo para dar una mayor flexibilidad a sus proyectos y a los trabajadores que trabajan en ellos. Entre las muchas características positivas que tiene Cloud, podemos destacar que no ocupa espacio en el disco duro o que aumenta la seguridad de los documentos subidos a la nube. Sin embargo, estas nuevas herramientas de colaboración y trabajo en Cloud se han creado especialmente para que el trabajo colaborativo en las empresas aumente.
+
+3. Las nuevas formas de trabajo colaborativo se están incluyendo en diferentes ámbitos laborales para proporcionar nuevas características a los proyectos que se lleven a cabo y, sobre todo, a los usuarios que trabajan en ellos. El principal objetivo es dar a los trabajadores una mayor movilidad, una mayor autonomía y, sobre todo, una mayor flexibilidad y disponibilidad en el ámbito laboral, pero siempre conservando un gran nivel de seguridad tanto de los proyectos que se están ejecutando como de los usuarios que participan en estos proyectos.
+
+4. 
+En los últimos años se ha producido un aumento rápido en el consumo de tecnología. Durante los primeros años no existía un control tan exhaustivo de la seguridad como lo hay ahora mediante procesos de doble verificación de contraseñas, por ejemplo. Además, el mundo del consumo se ha visto relacionado directamente con la forma de trabajar, ya que existe una gran variedad de dispositivos móviles que los usuarios utilizan en el ámbito laboral como las tablets, los portátiles, etc., facilitando así la movilidad de los empleados fuera y dentro del lugar de trabajo.
