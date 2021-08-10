@@ -75,3 +75,10 @@ Conceptos clave:
 - Continuidad
 - Digital workspace
 - Seguridad
+
+# Extras
+
+1. Las empresas quieren dar un mejor servicio Cloud a sus usuarios y por ello surgen nuevos conceptos como Cloud-Native apps y DevOps. Estos nuevos elementos no pretenden reemplazar aplicaciones tradicionales, sino mejorar los servicios dando respuesta a las necesidades actuales de crear y publicar servicios escalables de manera rápida.
+2. Se está produciendo una gran transformación en los servicios de Cloud que los proveedores quieren dar y en los servicios de Cloud que los usuarios quieren recibir. DevOps es una aplicación creada para dar respuesta a las necesidades actuales de crear y publicar servicios escalables de la manera más rápida, pero algo que deben saber tanto los proveedores como los consumidores es que la adopción de este nuevo modelo requiere un cambio cultural.
+3. Las empresas están evolucionando y están llevando a cabo transformaciones en su estructura para dar un mejor servicio a los usuarios, por ello están dando a sus proyectos una orientación de servicios en vez de una orientación a proyectos. Es importante saber que el tipo de servicio determinará el tipo de modelo organizativo a seguir. Si se lleva a cabo una buena organización, no será complicado de coordinar.
+4. Las empresas están sufriendo grandes cambios en su estructura y en su modo de trabajar, ya que sus trabajadores quieren lugares de trabajo más informatizados y más flexibles. Workplace no implica la adopción de un software para el usuario final, sino que necesitan que se habiliten nuevos canales y experiencias digitales de usuario bajo un entorno multi-dispositivo y multi-contexto.
