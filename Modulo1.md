@@ -76,7 +76,64 @@ Lo que buscan es esa agilidad, automatización, gobernanza, industrialización, 
 En los últimos años, hemos visto un enorme crecimiento en el sector del Cloud Computing. Ejemplos de este crecimiento son muchas de las aplicaciones web más populares utilizadas en la actualidad, incluyendo VoIP (por ejemplo, Skype o Google Voice), aplicaciones sociales (entre las que destacan Facebook, Twitter o LinkedIn), servicios de almacenamiento y gestión de imágenes y vídeo (por ejemplo, Picassa, YouTube o Flickr), distribución de contenido (como puede ser BitTorrent), aplicaciones financieras y muchos más.
 
 
-conceptos clave
+Conceptos clave:
 - Se usan en aplicaciones colaborativaas
 - Se usan en el Desarrollo de aplicaciones
 - Se usan en aplicados a Disaster recovery
+
+## 8. Cifras en el mundo Cloud
+Adaptarse a los nuevos modelos de negocio implica escuchar a los usuarios. El crecimiento en el entorno Cloud es exponencial. El aumento de usuarios que generan contenidos en entornos sociales e intercambian información de forma constante impacta en los modelos de negocio que se mueven en atención a la demanda.
+
+Conceptos clave:
+- Cambios en el modelo de negocio
+- Ecomnomía de escala
+- Crecimiento exponencial en tecnología empresarial
+- Escalabilidad gracias a cloud
+- gestión hotelera, transporte público
+
+## 9. Profundizamos: algunas cifras en Cloud
+Facebook encabeza el ranking con un 83% de usuarios, seguido de Twitter con un 43% y a continuación continúa la lista Linkedin e Instagram con un 27%, esta última con alto crecimiento en los últimos dos años.
+
+Conceptos clave:
+- 3500 millones ususarios de internet, 2300 millones en redes sociales
+- 31% ususarios activos
+- 96% de los adultos ya tiene dispositivos
+- Mayor comercio en ordenadores.
+- 69% con consumo de datos
+
+## 10. Cambios en el servicio tradicional hosting
+La tecnología Cloud brinda a los usuarios una gran diversidad de los servicios. La rigidez de los antiguos modelos de hosting o la complejidad de desarrollos web contrasta con la flexibilidad de la oferta actual. Como ejemplos encontramos servicios de ubicación para nuestra página, personalización o medios de pago, entre otros.
+
+
+Conceptos clave:
+- el modelo, aparte de permitir esa alta escalabilidad, y esos altos volúmenes
+- empresas más pequeñas o incipientes porque acaban de nacer, poder entrar a competir con todo tipo de capacidad.
+- No FTP
+
+## 11. Economia en Cloud
+Siguiente lección
+El proveedor de servicios Cloud debe dar el mejor servicio posible a través de la nube con un hardware adaptado. Es necesario también que se utilice un sistema automatizado para transferir tareas de producción a un conjunto de elementos tecnológicos. Además, lo más recomendable es que los sistemas que se utilicen sean maduros y hayan sido desarrollados.
+
+Conceptos clave:
+- Industrializas
+- Automatización -> Eficiencia
+- Sistema maduro y desarrollado
+- Fomenta el consumo
+- Entre mas consumas, mas barato va a ser.
+
+
+## 12. Primeros pasos para una empresa
+Las empresas que quieran ser más competitivas necesitan hacer esfuerzos culturales y cambiar las soluciones que dan a los problemas que se les plantean de forma dinámica y ágil para que estos problemas no se hagan mayores. Es importante saber que, si en alguna ocasión, los recursos propios no son suficientes, se busque respuesta en recursos de terceros.
+
+Conceptos clave:
+- Las empresas buscan ser competitivas
+- No siempro consiguen internamente lo que buscan
+- shadow It, un servico cloud de terceros (no hacer esto).
+- Proactividad de la oficina del CIO
+
+## 13. Por dónde empezamos
+Muchas empresas que quieren ser parte del modelo Cloud deben hacer un esfuerzo de cambio cultural, lo que puede suponer un cambio en su manera de trabajar que, probablemente, sea distinta a la que han llevado hasta ahora. Debe ser un modelo flexible con diferentes variantes que se adecuen a las diferentes necesidades que puedan surgir. Además, será necesario que este modelo se produzca a gran escala para poder dar servicio a un mayor número de usuarios.
+
+Conceptos clave:
+- Ser Flexibles
+- cambio cultutral
